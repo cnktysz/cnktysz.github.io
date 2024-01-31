@@ -48,8 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Cenk and I'm a Ph.D. candidate in Quantum Computing.
-
+  Hi, my name's Cenk, and I'm a Ph.D. candidate in quantum computing. I love working on multidisciplinary projects, and in fact, this is what brought me to quantum computing. I enjoy working with people from all around the world and am always looking for new collaboration opportunities to broaden my horizons. Below is a non-exhaustive list of my current research interests. Feel free to reach out via your favorite platform.
+  
   Research Interests:
     - Quantum machine learning (QML); trainability and expressive capacity of QML models, barren plateaus, warm starting.
     - Generative learning with QML
@@ -85,7 +85,7 @@ content:
             Performance and behaviour of QML algorithms in the presence of hardware noise. \
             Warm start and ansatz design methods for QML algorithms. \
             QML for high energy physics problems, such as particle track reconstruction and jet event generation. \
-            Supervisor: Karl Jansen
+            Supervisor: Prof. Dr. Karl Jansen
 
         - title: IBM Qiskit
           # link: quantum-zeuthen.desy.de
@@ -133,7 +133,7 @@ content:
         sub_title: Ph.D. in Physics
         description: | # this will include new lines to allow paragraphs
           Tentative thesis title: Quantum Machine Learning and its applications in High Energy Physics. \
-          Supervisor: Prof. Karl Jansen
+          Supervisor: Prof. Dr. Karl Jansen
       
       - title: Middle East Technical University (METU)
         caption: 2019 - 2021
