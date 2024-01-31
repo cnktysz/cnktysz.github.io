@@ -173,9 +173,6 @@ content:
   - title: Publications in Quantum Computing
     layout: text 
     content: | 
-      C. Tüysüz et al. “Learning particle jet events using quantum generative models”, (in preparation).
-      M. Demidik, C. Tüysüz et al. “Discriminative learning with quantum Boltzmann machines”, (in preparation).
-      C. Tüysüz, A. Jayakumar, A. Lokhov, “Efficiently learning response functions of analog quantum computers”, (in preparation). \
       C. Tüysüz, S.Y. Chang, M. Demidik, K. Jansen, S. Vallecorsa, M. Grossi, “Symmetry breaking in geometric quantum machine learning in the presence of noise”, arXiv: 2401.10293 (2024). \
       A.D. Meglio et al. “Quantum Computing for High-Energy Physics: State of the Art and Challenges. Summary of the QC4HEP Working Group”, arXiv: 2307.03236 (2023). \
       X. Wang, Y. Chai, M. Demidik, X. Feng, K. Jansen, C. Tüysüz, “Symmetry enhanced variational quantum imaginary time evolution”, arXiv: 2307.13598 (2023). \
