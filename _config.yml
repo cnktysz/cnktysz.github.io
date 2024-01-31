@@ -89,15 +89,64 @@ content:
             Improved the speed of the QuantumKernel module [10 fold](https://github.com/qiskit-community/qiskit-machine-learning/pull/247). \
             Supervisor: Anton Dekusar
 
+        - title: METU IVMER & gluoNNet
+          # link: quantum-zeuthen.desy.de
+          # link_text: boringcompany.com
+          sub_title: Researcher
+          caption: 2019 - 2021
+          description: | # this will include new lines to allow paragraphs
+            Quantum algorithms for high energy physics problems. \
+            Trainability and expressive power of Quantum Neural Networks (QNNs). 
+
+        - title: CERN openlab & gluoNNet
+          # link: quantum-zeuthen.desy.de
+          # link_text: boringcompany.com
+          sub_title: Researcher
+          caption: Summer 2019
+          description: | # this will include new lines to allow paragraphs
+            QML algorithms for track reconstruction for large hadron collider (LHC) experiments at CERN. \
+            Development of QML methods using Qiskit and Tensorflow.
+
+        - title: CERN (AMS-02) & METU
+          # link: quantum-zeuthen.desy.de
+          # link_text: boringcompany.com
+          sub_title: Researcher
+          caption: 2018 - 2019
+          description: | # this will include new lines to allow paragraphs
+            Statistical data analysis of cosmic ray data collected by AMS-02 located on ISS. \
+            Time dependent analysis of He flux to investigate correlation with solar activity.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Humboldt University of Berlin
+      #- layout: left
+      - title: Humboldt University of Berlin
         caption: 2021 - present
-        sub_title: PhD in Physics
+        sub_title: Ph.D. in Physics
         quote: >
           Tentative thesis title: Quantum Machine Learning and its applications in High Energy Physics
+        description: | # this will include new lines to allow paragraphs
+          Supervisor: Prof. Karl Jansen
+      
+      - title: Middle East Technical University (METU)
+        caption: 2019 - 2021
+        sub_title: M.Sc. in Physics
+        quote: >
+          Thesis title: Hybrid Graph Neural Networks for Particle Track Reconstruction at Large Hadron Collider (LHC). 
+        description: | # this will include new lines to allow paragraphs
+          Supervisor: Prof. Dr. M. Bilge Demirköz
+      
+      - title: Middle East Technical University (METU)
+        caption: 2015 - 2019
+        sub_title: B.Sc. in Physics
+        quote: >
+          Specialization and research in experimental high energy physics        description: | # this will include new lines to allow paragraphs
+      
+      - title: Middle East Technical University (METU)
+        caption: 2014 - 2018
+        sub_title: B.Sc. in Electrical & Electronics Engineering
+        quote: >
+          Specialization in robotics, control theory and signal processing
 
 # Footer
 footer_show_references: true
