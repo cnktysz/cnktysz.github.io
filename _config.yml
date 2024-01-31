@@ -66,6 +66,7 @@ content:
           Designed and ran experiments on neutral atom quantum computers. \
           Supervisors: Andrey Lokhov, Marco Cerezo 
     content:
+      - layout: left
         title: DESY
         link: quantum-zeuthen.desy.de
         # link_text: boringcompany.com
@@ -79,6 +80,7 @@ content:
           QML for high energy physics problems, such as particle track reconstruction and jet event generation. \
           Supervisor: Karl Jansen
     content:
+      - layout: left
         title: IBM Qiskit
         # link: quantum-zeuthen.desy.de
         # link_text: boringcompany.com
