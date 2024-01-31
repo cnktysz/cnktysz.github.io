@@ -145,6 +145,51 @@ content:
         sub_title: B.Sc. in Electrical & Electronics Engineering
         description: |
           Specialization in robotics, control theory and signal processing. 
+  
+  - title: Supervision / Teaching
+    layout: text 
+    content: | 
+      Gave a tutorial on QML using Pennylane at QClass23/24 organized by QWorld (Winter 2023-2024). \
+      Supervised an undergraduate student on introduction to variational quantum algorithms as part of the DESY Ukrainian Winter School (Winter 2022-2023). \
+      Supervised a graduate student on expressivity of parametrized quantum circuits as part of Qiskit Advocate Mentorship Program (Fall 2022). \
+      Supervised a graduate student on introduction to variational quantum algorithms as part of the DESY Summer School (Summer 2022). \
+      Supervised two undergraduate students to work on quantum convolutional neural networks (2021). \
+      Supervised an undergraduate for his thesis project on quantum kernel methods (2021). \
+      Gave online lectures to support the graduate course SPECIAL TOPICS IN COMPUTER ENGINEERING: QUANTUM COMPUTING at Middle East Technical University Computer Engineering department (Spring 2020). \
+      Gave a workshop on introduction to quantum computing at Ted University in Turkey (February 2020).
+
+  - title: Presentations
+    layout: text 
+    content: | 
+      (Oral) Symmetry breaking in geometric quantum machine learning in the presence of noise. Quantum Computing Workshop, Munich, Germany (January 2024) \
+      (Poster) Equivariant quantum neural networks in the NISQ era. QTML23, Geneva, Switzerland (November 2023) \
+      (Poster) Classical splitting of parametrized quantum circuits. QIP23, Ghent, Belgium (February 2023) \
+      (Poster) Classical splitting of parametrized quantum circuits. QTML22, Naples, Italy (November 2022) \
+      (Poster) Classical splitting of parametrized quantum circuits. Quantum Technologies for High Energy Physics conference, Geneva, Switzerland (November 2022) (best poster award) \
+      (Poster) Quantum Graph Neural Networks for Track Reconstruction in Particle Physics and Beyond. QTML20, remote, (November 2020) \
+      (Oral) A Quantum Graph Network Approach to Particle Track Reconstruction, Connecting the Dots workshop, remote (April 2020) \
+      (Oral) A Quantum Graph Neural Network Approach to Particle Track Reconstruction. Geneva, Switzerland (January 2020) \
+
+  - title: Publications in Quantum Computing
+    layout: text 
+    content: | 
+      C. Tüysüz et al. “Learning particle jet events using quantum generative models”, (in preparation).
+      M. Demidik, C. Tüysüz et al. “Discriminative learning with quantum Boltzmann machines”, (in preparation).
+      C. Tüysüz, A. Jayakumar, A. Lokhov, “Efficiently learning response functions of analog quantum computers”, (in preparation). \
+      C. Tüysüz, S.Y. Chang, M. Demidik, K. Jansen, S. Vallecorsa, M. Grossi, “Symmetry breaking in geometric quantum machine learning in the presence of noise”, arXiv: 2401.10293 (2024). \
+      A.D. Meglio et al. “Quantum Computing for High-Energy Physics: State of the Art and Challenges. Summary of the QC4HEP Working Group”, arXiv: 2307.03236 (2023). \
+      X. Wang, Y. Chai, M. Demidik, X. Feng, K. Jansen, C. Tüysüz, “Symmetry enhanced variational quantum imaginary time evolution”, arXiv: 2307.13598 (2023). \
+      A. Crippa, L. Funcke, T. Hartung, B. Heinemann, K. Jansen, A. Kropf, S. Kühn, F. Meloni, D. Spataro, C. Tüysüz, Y. C. Yap, “Quantum Algorithms for Charged Particle Track Reconstruction in the LUXE Experiment”, Comput Softw Big Sci 7, 14 (2023). \
+      C. Tüysüz, G. Clemente, A. Crippa, T. Hartung, S. Kühn, and K. Jansen, “Classical Splitting of Parametrized Quantum Circuits”, Quantum Mach. Intell. 5, 34 (2023). \
+      K. Borras, S. Y. Chang, L. Funcke, M. Grossi, T. Hartung, K. Jansen, D. Kruecker, S. Kühn, F. Rehm, C. Tüysüz, and S. Vallecorsa, “Impact of quantum noise on the training of quantum Generative Adversarial Networks”, arXiv: 2203.01007 [hep-ex, quant-ph] (2022). \ 
+      C. Tüysüz, C. Rieger, K. Novotny, B. Demirköz, D. Dobos, K. Potamianos, S. Vallecorsa, J.R. Vlimant, and R. Forster, “Hybrid quantum classical graph neural networks for particle track reconstruction”, Quantum Machine Intelligence 3, 29 (2021). \
+      C. Rieger, C. Tüysüz, K. Novotny, S. Vallecorsa, B. Demirköz, K. Potamianos, D. Dobos and J.R. Vlimant, “Embedding of particle tracking data using hybrid quantum-classical neural networks”, EPJ Web of Conferences (Vol. 251, p. 03065 (2021). \
+      C. Tüysüz, F. Carminati,  B. Demirköz, D. Dobos, F.Fracas, K. Novotny, K. Potamianos, S. Vallecorsa and Vlimant, J.R., “Particle track reconstruction with quantum algorithms”, EPJ Web of Conferences (Vol. 245, p. 09013) (2020). \
+
+
+
+
+
 
 # Footer
 footer_show_references: true
