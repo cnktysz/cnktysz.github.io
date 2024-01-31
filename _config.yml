@@ -65,7 +65,7 @@ content:
           Efficient learning response functions of analog quantum devices from output distributions. \
           Designed and ran experiments on neutral atom quantum computers. \
           Supervisors: Andrey Lokhov, Marco Cerezo 
-    
+    content:
         title: DESY
         link: quantum-zeuthen.desy.de
         # link_text: boringcompany.com
@@ -78,7 +78,7 @@ content:
           Warm start and ansatz design methods for QML algorithms. \
           QML for high energy physics problems, such as particle track reconstruction and jet event generation. \
           Supervisor: Karl Jansen
-
+    content:
         title: IBM Qiskit
         # link: quantum-zeuthen.desy.de
         # link_text: boringcompany.com
