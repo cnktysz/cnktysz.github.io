@@ -123,30 +123,28 @@ content:
       - title: Humboldt University of Berlin
         caption: 2021 - present
         sub_title: Ph.D. in Physics
-        quote: >
-          Tentative thesis title: Quantum Machine Learning and its applications in High Energy Physics
         description: | # this will include new lines to allow paragraphs
+          Tentative thesis title: Quantum Machine Learning and its applications in High Energy Physics. \
           Supervisor: Prof. Karl Jansen
       
       - title: Middle East Technical University (METU)
         caption: 2019 - 2021
         sub_title: M.Sc. in Physics
-        quote: >
-          Thesis title: Hybrid Graph Neural Networks for Particle Track Reconstruction at Large Hadron Collider (LHC). 
         description: | # this will include new lines to allow paragraphs
+          Thesis title: Hybrid Graph Neural Networks for Particle Track Reconstruction at Large Hadron Collider (LHC). \
           Supervisor: Prof. Dr. M. Bilge Demirköz
       
       - title: Middle East Technical University (METU)
         caption: 2015 - 2019
         sub_title: B.Sc. in Physics
-        quote: >
-          Specialization and research in experimental high energy physics        description: | # this will include new lines to allow paragraphs
+        description: |
+          Specialization and research in experimental high energy physics.       
       
       - title: Middle East Technical University (METU)
         caption: 2014 - 2018
         sub_title: B.Sc. in Electrical & Electronics Engineering
-        quote: >
-          Specialization in robotics, control theory and signal processing
+        description: |
+          Specialization in robotics, control theory and signal processing. 
 
 # Footer
 footer_show_references: true
