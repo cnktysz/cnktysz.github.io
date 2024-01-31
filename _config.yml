@@ -15,19 +15,19 @@ website: cnktysz.github.io
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: cenk_tuysuz
+github_username:  cnktysz
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: cenk-tuysuz
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0003-0257-9784
 
 # Additional icon links
 additional_links:
@@ -55,19 +55,40 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Los Alamos National Laboratory
+        # link: quantum-zeuthen.desy.de
+        # link_text: boringcompany.com
+        sub_title: Research Fellow
+        caption: Summer 2023
+        description: | # this will include new lines to allow paragraphs
+          Equivariance and representation theory within the context of GQML in the presence of hardware noise. \
+          Efficient learning response functions of analog quantum devices from output distributions. \
+          Designed and ran experiments on neutral atom quantum computers. \
+          Supervisors: Andrey Lokhov, Marco Cerezo 
+    
         title: DESY
         link: quantum-zeuthen.desy.de
         # link_text: boringcompany.com
         sub_title: Ph.D. reseracher
         caption: 2021 - present
-        quote: >
-          Generative learning using QML algorithms such as QCBMs and QBMs.
         description: | # this will include new lines to allow paragraphs
-          Geometric quantum machine learning for classification.
-          Performance and behaviour of QML algorithms in the presence of hardware noise.
-          Warm start and ansatz design methods for QML algorithms.
-          QML for high energy physics problems, such as particle track reconstruction and jet event generation.
+          Generative learning using QML algorithms such as QCBMs and QBMs. \
+          Geometric quantum machine learning for classification. \
+          Performance and behaviour of QML algorithms in the presence of hardware noise. \
+          Warm start and ansatz design methods for QML algorithms. \
+          QML for high energy physics problems, such as particle track reconstruction and jet event generation. \
           Supervisor: Karl Jansen
+
+        title: IBM Qiskit
+        # link: quantum-zeuthen.desy.de
+        # link_text: boringcompany.com
+        sub_title: Intern
+        caption: Fall 2021
+        description: | # this will include new lines to allow paragraphs
+          Worked on analyzing the performance of Qiskit's qiskit-machine-learning python package as part of the [Qiskit Advocate Mentorship Program](https://github.com/qiskit-advocate/qamp-fall-21/issues/14). \
+          Improved the speed of the QuantumKernel module [10 fold](https://github.com/qiskit-community/qiskit-machine-learning/pull/247). \
+          Supervisor: Anton Dekusar
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
