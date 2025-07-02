@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-This is Cenk Tüysüz (/ˈdʒɛŋk tu:jsu:z/). I'm a postdoc @ CERN working on quantum machine learning. I love working on multidisciplinary projects, and in fact, this is what brought me to quantum computing. I enjoy working with people from all around the world. Below is a non-exhaustive list of my current research interests. Feel free to reach out via your favorite platform.
+  This is Cenk Tüysüz (/ˈdʒɛŋk tu:jsu:z/). I'm a postdoc @ CERN working on quantum machine learning. I love working on multidisciplinary projects, and in fact, this is what brought me to quantum computing. I enjoy working with people from all around the world. Below is a non-exhaustive list of my current research interests. Feel free to reach out via your favorite platform.
 
 Research Interests:
 - Generative learning with QML
