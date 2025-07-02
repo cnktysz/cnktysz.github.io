@@ -48,21 +48,44 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Cenk, and I'm a Ph.D. candidate in quantum computing. I love working on multidisciplinary projects, and in fact, this is what brought me to quantum computing. I enjoy working with people from all around the world and am always looking for new collaboration opportunities to broaden my horizons. Below is a non-exhaustive list of my current research interests. Feel free to reach out via your favorite platform.
-  
-  Research Interests:
-    - Quantum machine learning (QML); trainability and expressive capacity of QML models, barren plateaus, warm starting.
-    - Generative learning with QML
-    - Geometric machine learning; representation theory, category theory 
-    - Understanding hardware noise to maximize utility of current hardware
-    - Physics simulations with Quantum Computing
-    - High Energy Physics applications of Quantum Computing
+This is Cenk Tüysüz (/ˈdʒɛŋk tu:jsu:z/). I'm a postdoc @ CERN working on quantum machine learning. I love working on multidisciplinary projects, and in fact, this is what brought me to quantum computing. I enjoy working with people from all around the world. Below is a non-exhaustive list of my current research interests. Feel free to reach out via your favorite platform.
+
+Research Interests:
+- Generative learning with QML
+- Quantum machine learning (QML); trainability QML models, barren plateaus, warm starts.
+- Geometric machine learning; representation theory, category theory
+- Mitigating hardware noise to maximize utility of current hardware
+- Physics simulations with Quantum Computing
+- High Energy Physics applications of Quantum Computing
 
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       #- layout: left
+        - title: CERN
+          # link: quantum-zeuthen.desy.de
+          # link_text: boringcompany.com
+          sub_title: Postdoctoral researcher
+          caption: 2025 - present
+          description: | # this will include new lines to allow paragraphs
+            Generative learning with quantum computers. \
+            Fault tolerant quantum algorithms for machine learning. \
+            Quantum computing for High Enegy Physics problems.
+
+          - title: DESY
+          link: quantum-zeuthen.desy.de
+          # link_text: boringcompany.com
+          sub_title: Ph.D. Researcher
+          caption: 2021 - 2025
+          description: | # this will include new lines to allow paragraphs
+            Generative learning using QML algorithms such as QCBMs and QBMs. \
+            Geometric quantum machine learning for classification. \
+            Performance and behaviour of QML algorithms in the presence of hardware noise. \
+            Warm start and ansatz design methods for QML algorithms. \
+            QML for high energy physics problems, such as particle track reconstruction and jet event generation. \
+            Supervisor: Prof. Dr. Karl Jansen
+      
         - title: Los Alamos National Laboratory
           # link: quantum-zeuthen.desy.de
           # link_text: boringcompany.com
@@ -73,20 +96,7 @@ content:
             Efficient learning response functions of analog quantum devices from output distributions. \
             Designed and ran experiments on neutral atom quantum computers. \
             Supervisors: Andrey Lokhov, Marco Cerezo 
-
-        - title: DESY
-          link: quantum-zeuthen.desy.de
-          # link_text: boringcompany.com
-          sub_title: Ph.D. Researcher
-          caption: 2021 - present
-          description: | # this will include new lines to allow paragraphs
-            Generative learning using QML algorithms such as QCBMs and QBMs. \
-            Geometric quantum machine learning for classification. \
-            Performance and behaviour of QML algorithms in the presence of hardware noise. \
-            Warm start and ansatz design methods for QML algorithms. \
-            QML for high energy physics problems, such as particle track reconstruction and jet event generation. \
-            Supervisor: Prof. Dr. Karl Jansen
-
+            
         - title: IBM Qiskit
           # link: quantum-zeuthen.desy.de
           # link_text: boringcompany.com
@@ -129,10 +139,10 @@ content:
     content:
       #- layout: left
       - title: Humboldt University of Berlin
-        caption: 2021 - present
+        caption: 2021 - 2025
         sub_title: Ph.D. in Physics
         description: | # this will include new lines to allow paragraphs
-          Tentative thesis title: Quantum Machine Learning and its applications in High Energy Physics. \
+          Thesis title: Quantum machine learning with near and future term quantum computers \
           Supervisor: Prof. Dr. Karl Jansen
       
       - title: Middle East Technical University (METU)
