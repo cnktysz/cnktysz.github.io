@@ -73,7 +73,7 @@ content:
             Fault tolerant quantum algorithms for machine learning. \
             Quantum computing for High Enegy Physics problems.
 
-          - title: DESY
+        - title: DESY
           link: quantum-zeuthen.desy.de
           # link_text: boringcompany.com
           sub_title: Ph.D. Researcher
