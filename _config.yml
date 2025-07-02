@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Cenk Tüysüz
-title: Ph.D. candidate in Quantum Computing
-email: ctuysuz@mail.desy.de
+title: Postdoctoral Researcher in Quantum Machine Learning
+email: cenk.tuysuz@cern.ch
 website: cnktysz.github.io
 
 # Dark Mode (true/false/never)
@@ -64,9 +64,7 @@ content:
     content:
       #- layout: left
         - title: CERN
-          # link: quantum-zeuthen.desy.de
-          # link_text: boringcompany.com
-          sub_title: Postdoctoral researcher
+          sub_title: Postdoctoral Researcher
           caption: 2025 - present
           description: | # this will include new lines to allow paragraphs
             Generative learning with quantum computers. \
